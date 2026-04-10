@@ -1,0 +1,10 @@
+{
+  "users": [
+    { "id": 1, "email": "test1@test.com", "country": "IE" },
+    { "id": 2, "email": "test2@test.com", "country": "US" }
+  ],
+  "orders": [
+    { "id": 101, "userId": 1, "amount": 100 },
+    { "id": 102, "userId": 3, "amount": 200 }
+  ]
+}
